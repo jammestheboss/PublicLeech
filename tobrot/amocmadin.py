@@ -20,12 +20,12 @@ from tobrot.get_cfg import get_config
 class Loilacaztion:
     PROCESSING = get_config(
         "STRINGS_PROCESSING",
-        "processing ..."
+        "Processing ...🥳"
     )
 
     CLEARED_THUMBNAIL = get_config(
         "STRINGS_CLEARED_THUMBNAIL",
-        "✅ Custom thumbnail cleared succesfully."
+        "✅ Custom thumbnail cleared succesfully!"
     )
     HELP_SAVE_THUMBNAIL = get_config(
         "STRINGS_HELP_SAVE_THUMBNAIL",
@@ -41,7 +41,7 @@ class Loilacaztion:
 
     HELP_MESSAGE = get_config(
         "STRINGS_HELP_MESSAGE",
-        "please read the <a href='https://t.me/c/1434259219/99'>Pinned Message</a>"
+        "Please read the <a href='https://t.me/safothebot'>Pinned Message</a>"
     )
     WRONG_MESSAGE = get_config(
         "STRINGS_WRONG_MESSAGE",
